@@ -202,6 +202,10 @@ footer a{
 }
 /* main width requirement */
 @media screen and (max-width: 1000px) {
+    header{
+        text-align: center;
+    }
+    
     #nav-main{
         flex-direction: column;
     }
